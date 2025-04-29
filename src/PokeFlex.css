@@ -1,0 +1,18 @@
+.Pokes {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+    background-color: antiquewhite;
+    border-radius: 32%;
+    padding: 10px;
+    margin: 10px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
